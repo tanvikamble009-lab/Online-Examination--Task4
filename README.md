@@ -81,14 +81,14 @@ java Main
 
 
 ## Default Login Credentials
-Username: sona
-Password: 123
+Username: Tanvi
+Password: 169
 
 
 
 ## Sample Output
-Enter username: sona
-Enter password: 123
+Enter username: Tanvi
+Enter password: 169
 
 Login successful.
 
